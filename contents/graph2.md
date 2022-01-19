@@ -2,7 +2,7 @@
 # 그래프2(최단경로 알고리즘 : 다익스트라(Dijkstra), 벨만포드(Bellman-Ford), 플로이드(Floyd-Warshall), SPFA(Shortest Path Faster))
 
 ### 관련 문제들
-✅
+
 | 링크 | 수민 | 새음  |석렬|
 |--|--|--|--|
 | [https://www.acmicpc.net/problem/1504](https://www.acmicpc.net/problem/1504)||||
@@ -15,9 +15,9 @@
 | [https://www.acmicpc.net/problem/1956](https://www.acmicpc.net/problem/1956)||||
 | [https://www.acmicpc.net/problem/11657](https://www.acmicpc.net/problem/11657)||||
 |||||
-|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|✅|||
-|[경로 찾기](https://www.acmicpc.net/problem/11403)|✅|||
-|[최단경로](https://www.acmicpc.net/problem/1753)|✅|||
+|[특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)||||
+|[경로 찾기](https://www.acmicpc.net/problem/11403)||||
+|[최단경로](https://www.acmicpc.net/problem/1753)||||
 
 
    

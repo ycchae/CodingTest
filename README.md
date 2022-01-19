@@ -74,16 +74,16 @@
 ### :snail:  알고리즘 유형
 |순번|Tag|태그|문제집|상태|
 |--|--|--|--|--|
-|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/tree/main/01_Data_Structure/README.md)|☑️|
-|02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/02_Graph_Traversal/README.md)|☑️|
-|03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/03_Binary_Search/README.md)|☑️|
-|04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/04_Backtracking/README.md)|☑️|
-|05|Dynamic Programming|동적계획법|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/05_Dynamic_Programming/README.md)|☑️|
-|06|Divide and conquer|분할정복|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/06_Divide_and_Conquer/README.md)|☑️|
-|07|Shortest Path|최단거리|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/07_Shortest_Path/README.md)|☑️|
-|08|Minimum Spanning Tree(MST)|최소 스패닝 트리|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/08_Minimum_Spanning_Tree/README.md)|☑️|
-|09|Greedy|그리디|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/09_Greedy/README.md)|☑️|
-|10|Disjoint Set|분리 집합|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/10_Disjoint_Set/README.md)|☑️|
+|01|Data Structure|자료구조|[문제집](https://github.com/Crush-on-IT/algorithm-study/tree/main/01_Data_Structure/README.md)|👀|
+|02|Graph Traversal|그래프 탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/02_Graph_Traversal/README.md)|👀|
+|03|Binary Search|이분탐색|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/03_Binary_Search/README.md)|👀|
+|04|Backtracking|백트래킹|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/04_Backtracking/README.md)|👀|
+|05|Dynamic Programming|동적계획법|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/05_Dynamic_Programming/README.md)|👀|
+|06|Divide and conquer|분할정복|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/06_Divide_and_Conquer/README.md)|👀|
+|07|Shortest Path|최단거리|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/07_Shortest_Path/README.md)|👀|
+|08|Minimum Spanning Tree(MST)|최소 스패닝 트리|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/08_Minimum_Spanning_Tree/README.md)|👀|
+|09|Greedy|그리디|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/09_Greedy/README.md)|👀|
+|10|Disjoint Set|분리 집합|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/10_Disjoint_Set/README.md)|👀|
 |11|Topological Sorting|위상정렬|[문제집](https://github.com/Crush-on-IT/algorithm-study/blob/main/11_Topological_Sort/README.md)|👀|
 |12|String|문자열||:white_large_square:|
 |13|Sort|정렬||:white_large_square:|

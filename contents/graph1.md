@@ -2,10 +2,10 @@
 # 그래프1(그래프, DFS, BFS, 이분그래프, 사이클, 플러드 필)
 
 ### 관련 문제들
-✅
+
 | 링크 | 수민 | 새음  |
 |--|--|--|
-| [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260)|✅||
+| [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260)|||
 | [https://www.acmicpc.net/problem/11724](https://www.acmicpc.net/problem/11724)|||
 | [https://www.acmicpc.net/problem/1707](https://www.acmicpc.net/problem/1707)|||
 | [https://www.acmicpc.net/problem/10451](https://www.acmicpc.net/problem/10451)|||
@@ -20,13 +20,13 @@
 ### 백준 그래프 문제
 | 링크 | 수민 | 새음  |
 |--|--|--|
-| [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468)|✅||
-| [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012)|✅||
-| [https://www.acmicpc.net/problem/1987](https://www.acmicpc.net/problem/1987)|✅||
-| [https://www.acmicpc.net/problem/2589](https://www.acmicpc.net/problem/2589)|✅||
-| [https://www.acmicpc.net/problem/2583](https://www.acmicpc.net/problem/2583)|✅||
-| [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569)|✅||
-| [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665)|✅||
+| [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468)|||
+| [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012)|||
+| [https://www.acmicpc.net/problem/1987](https://www.acmicpc.net/problem/1987)|||
+| [https://www.acmicpc.net/problem/2589](https://www.acmicpc.net/problem/2589)|||
+| [https://www.acmicpc.net/problem/2583](https://www.acmicpc.net/problem/2583)|||
+| [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569)|||
+| [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665)|||
 | [https://www.acmicpc.net/problem/1766](https://www.acmicpc.net/problem/1766)|||
 | [https://www.acmicpc.net/problem/9470](https://www.acmicpc.net/problem/9470)|||
 | [https://www.acmicpc.net/problem/1005](https://www.acmicpc.net/problem/1005)|||

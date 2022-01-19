@@ -28,12 +28,12 @@
 ## 추천문제
 |          순번          |        문제 이름         |         난이도          |        수민         |새음|석렬|
 | :-----: | :-----: | :-----: | :-----: |:-----: | :-----: |
-|01| [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) ||✅|✅||
-|02| [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) ||✅|✅||
-|03| [https://www.acmicpc.net/problem/11651](https://www.acmicpc.net/problem/11651) ||✅|✅||
-|04| [https://www.acmicpc.net/problem/11656](https://www.acmicpc.net/problem/11656)||✅|✅||
-|05| [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) ||✅|✅||
-|06| [https://www.acmicpc.net/problem/10825](https://www.acmicpc.net/problem/10825) ||✅|✅||
-|07| [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989) ||✅|✅||
-|08| [https://www.acmicpc.net/problem/11652](https://www.acmicpc.net/problem/11652) ||✅|✅||
-|09| [https://www.acmicpc.net/problem/11004](https://www.acmicpc.net/problem/11004) ||✅|✅||
+|01| [https://www.acmicpc.net/problem/2751](https://www.acmicpc.net/problem/2751) |||||
+|02| [https://www.acmicpc.net/problem/11650](https://www.acmicpc.net/problem/11650) |||||
+|03| [https://www.acmicpc.net/problem/11651](https://www.acmicpc.net/problem/11651) |||||
+|04| [https://www.acmicpc.net/problem/11656](https://www.acmicpc.net/problem/11656)|||||
+|05| [https://www.acmicpc.net/problem/10814](https://www.acmicpc.net/problem/10814) |||||
+|06| [https://www.acmicpc.net/problem/10825](https://www.acmicpc.net/problem/10825) |||||
+|07| [https://www.acmicpc.net/problem/10989](https://www.acmicpc.net/problem/10989) |||||
+|08| [https://www.acmicpc.net/problem/11652](https://www.acmicpc.net/problem/11652) |||||
+|09| [https://www.acmicpc.net/problem/11004](https://www.acmicpc.net/problem/11004) |||||

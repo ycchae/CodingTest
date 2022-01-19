@@ -2,11 +2,11 @@
 # 트리와 이진탐색
 
 ### 관련 문제들
-✅
+
 | 링크 | 수민 | 새음  |
 |--|--|--|
 | * 트리|||
-|[https://www.acmicpc.net/problem/1991](https://www.acmicpc.net/problem/1991)|✅||
+|[https://www.acmicpc.net/problem/1991](https://www.acmicpc.net/problem/1991)|||
  | [https://www.acmicpc.net/problem/11725](https://www.acmicpc.net/problem/11725)|||
 | [https://www.acmicpc.net/problem/1167](https://www.acmicpc.net/problem/1167)|||
 | [https://www.acmicpc.net/problem/1967](https://www.acmicpc.net/problem/1967)|||
