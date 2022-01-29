@@ -9,7 +9,7 @@ for _ in range(M):
   graph[m1][m2] = graph[m2][m1] = 1
 
 def bfs(start_v):
-  discoverd = [start_v]
+  visited = [start_v]
   queue = deque() 
   queue.append(start_v)
 
@@ -18,17 +18,17 @@ def bfs(start_v):
     print(v, end=' ')
 
     for w in range(len(graph[start_v])):
-      if graph[v][w] == 1 and (w not in discoverd):
-        discoverd.append(w)
+      if graph[v][w] == 1 and (w not in visited):
+        visited.append(w)
         queue.append(w)
 
-def dfs(start_v, discoverd=[]):
-  discoverd.append(start_v)
+def dfs(start_v, visited=[]):
+  visited.append(start_v)
   print(start_v, end=' ')
 
   for w in range(len(graph[start_v])):
-    if graph[start_v][w] == 1 and (w not in discoverd):
-      dfs(w, discoverd)
+    if graph[start_v][w] == 1 and (w not in visited):
+      dfs(w, visited)
 
 dfs(V)
 print()
