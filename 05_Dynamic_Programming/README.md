@@ -21,18 +21,18 @@
 ## 추천문제
 |          순번         |        문제 이름         | 난이도 | Done | 
 | :-----: | :-----: | :-----: | :-----: |
-| 00 | <a href="https://www.acmicpc.net/problem/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> ||
-| 01 | <a href="https://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> ||
-| 02 | <a href="https://www.acmicpc.net/problem/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> ||
-| 03 | <a href="https://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||
-| 04 | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||
-| 05 | <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> ||
-| 06 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
-| 07 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
-| 08 | <a href="https://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
-| 09 | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
-| 10 | <a href="https://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
-| 11 | <a href="https://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
+| 00 | <a href="https://www.acmicpc.net/problem/10870" target="_blank">피보나치 수 5</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |😉|
+| 01 | <a href="https://www.acmicpc.net/problem/2839" target="_blank">설탕 배달</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |😊|
+| 02 | <a href="https://www.acmicpc.net/problem/2748" target="_blank">피보나치 수 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |😊|
+| 03 | <a href="https://www.acmicpc.net/problem/1010" target="_blank">다리 놓기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |😊|
+| 04 | <a href="https://www.acmicpc.net/problem/9655" target="_blank">돌 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |😊|
+| 05 | <a href="https://www.acmicpc.net/problem/17626" target="_blank">Four Squares</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |😊|
+| 06 | <a href="https://www.acmicpc.net/problem/1463" target="_blank">1로 만들기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |😊|
+| 07 | <a href="https://www.acmicpc.net/problem/9095" target="_blank">1, 2, 3 더하기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |😊|
+| 08 | <a href="https://www.acmicpc.net/problem/11726" target="_blank">2×n 타일링</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |😊|
+| 09 | <a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |😊|
+| 10 | <a href="https://www.acmicpc.net/problem/11727" target="_blank">2×n 타일링 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |😊|
+| 11 | <a href="https://www.acmicpc.net/problem/11053" target="_blank">가장 긴 증가하는 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |😊|
 | 12 | <a href="https://www.acmicpc.net/problem/1912" target="_blank">연속합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
 | 13 | <a href="https://www.acmicpc.net/problem/9465" target="_blank">스티커</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
 | 14 | <a href="https://www.acmicpc.net/problem/11055" target="_blank">가장 큰 증가 부분 수열</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
