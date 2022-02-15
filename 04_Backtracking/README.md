@@ -36,7 +36,7 @@
 | 12 | <a href="https://www.acmicpc.net/problem/1182" target="_blank">부분수열의 합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |😊|
 | 13 | <a href="https://www.acmicpc.net/problem/10971" target="_blank">외판원 순회 2</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |😊|
 | 14 | <a href="https://www.acmicpc.net/problem/16987" target="_blank">계란으로 계란치기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |😊|
-| 15 | <a href="https://www.acmicpc.net/problem/14712" target="_blank">넴모넴모 (Easy)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
+| 15 | <a href="https://www.acmicpc.net/problem/14712" target="_blank">넴모넴모 (Easy)</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |😊|
 | 16 | <a href="https://www.acmicpc.net/problem/14888" target="_blank">연산자 끼워넣기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 17 | <a href="https://www.acmicpc.net/problem/1174" target="_blank">줄어드는 숫자</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
 | 18 | <a href="https://www.acmicpc.net/problem/18430" target="_blank">무기 공학</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
