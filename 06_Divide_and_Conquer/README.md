@@ -26,7 +26,7 @@
 | 04 | <a href="https://www.acmicpc.net/problem/2447" target="_blank">별 찍기 - 10</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |😊|
 | 05 | <a href="https://www.acmicpc.net/problem/1992" target="_blank">쿼드트리</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |😊|
 | 06 | <a href="https://www.acmicpc.net/problem/1074" target="_blank">Z</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |😊|
-| 07 | <a href="https://www.acmicpc.net/problem/4779" target="_blank">칸토어 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> ||
+| 07 | <a href="https://www.acmicpc.net/problem/4779" target="_blank">칸토어 집합</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |😒|
 | 08 | <a href="https://www.acmicpc.net/problem/1780" target="_blank">종이의 개수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
 | 09 | <a href="https://www.acmicpc.net/problem/1802" target="_blank">종이 접기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> ||
 | 10 | <a href="https://www.acmicpc.net/problem/5904" target="_blank">Moo 게임</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> ||
