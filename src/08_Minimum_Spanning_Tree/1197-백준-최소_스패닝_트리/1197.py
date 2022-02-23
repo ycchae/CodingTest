@@ -16,10 +16,8 @@ for s, e, w in edges:
     sroot = find(s)
     eroot = find(e)
     if sroot != eroot:
-        if sroot > eroot:
-            root[sroot] = eroot
-        else:
-            root[eroot] = sroot
+        if sroot > eroot: root[sroot] = eroot
+        else: root[eroot] = sroot
         answer += w
 print(answer)
 
