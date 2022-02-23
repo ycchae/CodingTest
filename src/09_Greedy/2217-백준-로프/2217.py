@@ -1,0 +1,1 @@
+print(max([r*(c+1) for c, r in enumerate(sorted([int(input()) for _ in range(int(input()))],reverse=True))]))
