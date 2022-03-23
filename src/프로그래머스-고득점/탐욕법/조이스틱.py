@@ -9,7 +9,7 @@ def solution(name):
         next = i + 1
         while next < len(name) and name[next] == 'A':
             next += 1
-        print(c, min_move, 2*i + len(name) - next, 2*(len(name)-next) +i)
+        # print(c, min_move, 2*i + len(name) - next, 2*(len(name)-next) +i)
         min_move = min(min_move, 2*i + len(name) - next, 2*(len(name)-next) +i)
         
     answer += min_move
@@ -21,4 +21,5 @@ def solution(name):
 # print(solution("BAAA"))
 # print(solution("AZAAZ"))
 # print(solution("BAABAAABA"))
-print(solution("ABABAAABAAAAAAABA"))
+# print(solution("ABABAAABAAAAAAABA"))
+print(solution("AABAAAAAAABBB"))
