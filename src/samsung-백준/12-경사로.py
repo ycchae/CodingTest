@@ -23,7 +23,6 @@ def check(line):
             height = line[i]
             for j in range(i-1, i-1-L, -1): visited[j] = True
             i += 1
-    # print(visited)
     return True
 
 answer = 0
