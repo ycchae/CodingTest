@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74b6b3db-7a03-47ae-8501-a779d42714a2" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/29-주사위_윷놀이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/30-모노미노도미노_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/31-청소년_상어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/32-어른_상어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/33-스타트_택시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/34-컨베이어_벨트_위의_로봇.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/36-마법사_상어와_토네이도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/37-마법사_상어와_파이어스톰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/38-상어_초등학교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/39-상어_중학교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/40-마법사_상어와_비바라기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/41-마법사_상어와_블리자드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/42-주사위_굴리기_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/43-온풍기_안녕!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/44-마법사_상어와_복제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/1t/45-어항_정리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/18-큐빙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/19-인구이동.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/20-나무_재테크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/21-아기_상어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/22-미세먼지_안녕!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/23-낚시왕.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/24-이차원_배열과_연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/25-연구소_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/26-게리맨더링_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/27-새로운_게임_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/28-원판_돌리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/29-주사위_윷놀이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/30-모노미노도미노_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/31-청소년_상어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/32-어른_상어.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/33-스타트_택시.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/34-컨베이어_벨트_위의_로봇.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/35-마법사_상어와_파이어볼.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/36-마법사_상어와_토네이도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/37-마법사_상어와_파이어스톰.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/38-상어_초등학교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/39-상어_중학교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/40-마법사_상어와_비바라기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/41-마법사_상어와_블리자드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/42-주사위_굴리기_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/43-온풍기_안녕!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/44-마법사_상어와_복제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/samsung-백준/2t/45-어항_정리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CodingTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CodingTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/01-구슬_탈출_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/01-구슬_탈출_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/02-2048_Easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/02-2048_Easy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/03-뱀.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/03-뱀.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/04-시험_감독.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/04-시험_감독.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/05-주사위_굴리기.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/05-주사위_굴리기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/06-테트로미노.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/06-테트로미노.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/07-퇴사.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/07-퇴사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/08-연구소.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/08-연구소.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/09-로봇_청소기.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/09-로봇_청소기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/10-연산자_끼워넣기.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/10-연산자_끼워넣기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/11-스타트와_링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/11-스타트와_링크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/12-경사로.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/12-경사로.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/13-톱니바퀴.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/13-톱니바퀴.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/14-감시.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/14-감시.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/15-사다리_조작.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/15-사다리_조작.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/16-드래곤_커브.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/16-드래곤_커브.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/17-치킨_배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/17-치킨_배달.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/18-큐빙.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/18-큐빙.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/19-인구이동.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/19-인구이동.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/20-나무_재테크.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/20-나무_재테크.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/21-아기_상어.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/21-아기_상어.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/22-미세먼지_안녕!.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/22-미세먼지_안녕!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/23-낚시왕.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/23-낚시왕.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/24-이차원_배열과_연산.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/24-이차원_배열과_연산.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/25-연구소_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/25-연구소_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/26-게리맨더링_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/26-게리맨더링_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/27-새로운_게임_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/1t/27-새로운_게임_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samsung-백준/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/samsung-백준/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="288ichz77xVR4AtBpQMJL5gZopM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.21-아기_상어">
+    <configuration name="19-인구이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/samsung-백준/2t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung-백준/2t/19-인구이동.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="20-나무_재테크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/samsung-백준/2t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung-백준/2t/20-나무_재테크.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21-아기_상어" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/samsung-백준/2t" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung-백준/2t/21-아기_상어.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\pd3ch\OneDrive - knu.ac.kr\job\CodingTest\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodingTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/samsung-백준" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/samsung-백준/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.19-인구이동" />
+      <item itemvalue="Python.20-나무_재테크" />
+      <item itemvalue="Python.21-아기_상어" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.21-아기_상어" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.20-나무_재테크" />
+        <item itemvalue="Python.19-인구이동" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="74b6b3db-7a03-47ae-8501-a779d42714a2" name="변경" comment="" />
+      <created>1650604697135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650604697135</updated>
+    </task>
+    <servers />
+  </component>
+</project>

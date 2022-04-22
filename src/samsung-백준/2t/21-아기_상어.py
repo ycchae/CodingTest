@@ -1,11 +1,7 @@
 import sys; sys.stdin = open('d.txt', 'r')
 
-from collections import deque
-import heapq
-
 N = int(input())
 board = []
-visited = [[-1]*N for _ in range(N)]
 fish = [0]*7
 for i in range(N):
     line = list(map(int, input().split()))
@@ -20,36 +16,42 @@ for i in range(N):
 size = 2
 dirs = [(-1,0),(1,0),(0,1),(0,-1)]
 
-def eat(time):
+def eat():
     global shark
 
     r,c = shark
-    visited[r][c] = time
-    q = deque([(r,c,0)])
-    candidates = []
-    while q:
-        r,c,dist = q.popleft()
-        if candidates and candidates[0][0] < dist+1: continue
+    visited = [[N*N] * N for _ in range(N)]
 
+    visited[r][c] = 0
+    q = [(r,c,0)]
+    candidates = []
+    min_dist = N*N
+    while q:
+        r,c,dist = q.pop()
+        if min_dist < dist+1: continue
         for d in dirs:
             nr = r + d[0]
             nc = c + d[1]
             if nr < 0 or nc < 0 or nr >= N or nc >= N: continue
-            if visited[nr][nc] == time: continue
+            if visited[nr][nc] <= dist+1: continue
             if board[nr][nc] > size: continue
-            visited[nr][nc] = time
+            visited[nr][nc] = dist+1
             q.append((nr,nc, dist+1))
             if 0 < board[nr][nc] < size:
-                heapq.heappush(candidates, (dist+1, nr,nc, board[nr][nc]))
+                if dist + 1 < min_dist:
+                    min_dist = dist + 1
+                    candidates = []
+                candidates.append( ((nr,nc), board[nr][nc]) )
 
-    print(candidates)
     if candidates:
-        dist, r, c, s = candidates[0]
+        candidates.sort(key = lambda x: x[0])
+        p, s = candidates[0]
+        r,c = p
         board[r][c] = 0
         fish[s] -= 1
 
         shark = (r,c)
-        return dist
+        return min_dist
 
     return 0
 
@@ -57,8 +59,7 @@ def eat(time):
 time = 0
 cnt = 0
 while sum(fish[:size+1]):
-    res = eat(time)
-    print(shark, res)
+    res = eat()
     if not res: break
     time += res
 
@@ -69,3 +70,5 @@ while sum(fish[:size+1]):
             size += 1
 
 print(time)
+
+
